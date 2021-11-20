@@ -18,3 +18,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ### Added - Edits
 I, Frederick Zoreta have manually edited the README.md file
 
+I, Frederick Zoreta aka 'Eric the Great' have now, once again edited this amazing file!
+
+Long Live Eric's GitHub and Git Skills!!!
