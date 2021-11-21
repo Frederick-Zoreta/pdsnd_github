@@ -23,3 +23,11 @@ I, Frederick Zoreta aka 'Eric the Great' have now, once again edited this amazin
 Long Live Eric's GitHub and Git Skills!!!
 
 Further Ipsum Add-Ons for additional editing!
+
+1 last few edits for coding documentations!
+
+### More Further Edits
+
+Eric Zoreta has done more editing than usual!
+
+
